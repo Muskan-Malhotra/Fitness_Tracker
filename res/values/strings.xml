@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Fitness_Tracker</string>
+    <string name="CC">com.example.caloriecounter.Calorie Consumption</string>
+    <string name="CB">com.example.caloriecounter.Calorie Burned</string>
+    <array name = "age">
+        <item>Choose Your Age</item>
+        <item>6-15 yrs</item>
+        <item>16-18 yrs</item>
+        <item>19-25 yrs</item>
+        <item>26-40 yrs</item>
+        <item>41-55 yrs</item>
+        <item>Above 55 yrs</item>
+    </array>
+</resources>
